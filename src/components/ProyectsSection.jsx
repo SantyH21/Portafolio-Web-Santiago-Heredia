@@ -26,7 +26,7 @@ const proyectos = [
         id: 3,
         title: "Tesis Final de Carrera que buscaba crear un sistema de alerta temprana de abandono escolar, a traves de datos recolectados brindados por el ministerio de educacion.",
         description: "Tesis final que consistia",
-        imageUrl: "proyectsPics/.png",
+        imageUrl: "proyectsPics/TesisFinal.png",
         tags: ["Python", "Pandas", "Scikit-learn", "Matplotlib", "PyCaret", "GoogleColab"],
         gitHubUrl: "https://drive.google.com/drive/u/2/folders/1nUNoAl4pgiqL0fo4vBfzjY8BcZ9vQyAk",
         demoUrl: "#",
